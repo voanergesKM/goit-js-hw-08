@@ -21,5 +21,3 @@ function getGalleryMarkup({ preview, original, description }) {
 </a></li>
   `;
 }
-
-console.log(galleryItems);
